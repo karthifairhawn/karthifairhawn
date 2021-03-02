@@ -5,9 +5,9 @@
 ## Hey! 👋
 I'm Karthi Fair Hawn, a 19 years old learner from India.
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
+- 🧭 In stage of learning and need to be an all arounder.
 
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+- 👥 Being a good programmer is 3% talent & 97% not being distracted by the internet.
 
 ## Skills
 - 👨‍💻 HTML, CSS, JavaScript.
