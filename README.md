@@ -5,7 +5,7 @@
 ## Hey! 👋
 I'm Karthi Fair Hawn, a 19 years old learner from India.
 
-- 🧭 In stage of learning and need to be an all arounder.
+- 🧭 In stage of learning and need to be an all rounder🏏.
 
 - 👥 Being a good programmer is 3% talent & 97% not being distracted by the internet.
 
