@@ -11,11 +11,12 @@ I'm Karthi Fair Hawn, a 19 years old learner from India.
 
 ## Skills
 - 👨‍💻 HTML, CSS, JavaScript.
-- ⚙️ Bootstrap, Node JS.
-- 💽 Mongo DB, Oracle SQL.
-- 👁️ Python, Machine Learning.
+- 💽 Mongo DB, Oracle SQL, MySQL.
+- 👁️ Python, C++(Beginner), PHP, Node.
+- ⚙️ Bootstrap, Materialize.
 - 🌎 Networking, Web Penetration Testing.
-- 🤖 IOT, Automation.
+- 🤖 IOT, Automation, Selenium, Arduino.
+- 🌎 Github, Byet Host, Heruko, Firebase.
 
 ## Contact
 - [Karthi Fair Hawn](https://karthifairhawn.in)
