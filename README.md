@@ -9,15 +9,6 @@ I'm Karthi Fair Hawn, a 19 years old learner from India.
 
 - 👥 Being a good programmer is 3% talent & 97% not being distracted by the internet.
 
-## Skills
-- 👨‍💻 HTML, CSS, JavaScript.
-- 💽 Mongo DB, Oracle SQL, MySQL.
-- 👁️ Python, C++(Beginner), PHP, Node.
-- ⚙️ Bootstrap, Materialize.
-- 🌎 Networking, Web Penetration Testing.
-- 🤖 IOT, Automation, Selenium, Arduino.
-- 🌎 Github, Byet Host, Heruko, Firebase.
-
 ## Contact
 - [Karthi Fair Hawn](https://karthifairhawn.in)
 - [@karthifairhawn](https://facebook.com/karthifairhawn) on Facebook
