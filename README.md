@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/karthifairhawn/karthifairhawn/d013bdc9ae0c9ddf969dd218360dac32f1f7f5da/name.svg" alt="Marton Lederer" />
 </h1>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hey! 👋
 I'm Karthi Fair Hawn, a 19 years old learner from India.
