@@ -33,6 +33,5 @@ I'm Karthi Fair Hawn, a 19 years old learner from India.
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
- <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
-  </h5>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
