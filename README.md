@@ -13,6 +13,7 @@ I'm Karthi Fair Hawn, a 19 years old learner from India.
 - [Karthi Fair Hawn](https://karthifairhawn.in)
 - [@karthifairhawn](https://facebook.com/karthifairhawn) on Facebook
 - [karthifairhawn#6513](./) on Discord
+- [karthifairhawn_](https://twitter.com/karthifairhawn_) on Discord
 
 ### - Languages and Tools Learning...
 
