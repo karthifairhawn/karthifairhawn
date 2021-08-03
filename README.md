@@ -14,7 +14,7 @@ I'm Karthi Fair Hawn, a 19 years old learner from India.
 - [@karthifairhawn](https://facebook.com/karthifairhawn) on Facebook
 - [karthifairhawn#6513](./) on Discord
 
-### - Languages and Tools...
+### - Languages and Tools Learning...
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
