@@ -5,7 +5,7 @@
 ## Hey! 👋
 I'm Karthi Fair Hawn, a 19 years old learner from India.
 
-- 🧭 Learning stuffs by doing for past 3 years/
+- 🧭 Learning stuffs by doing for past 3 years.
 
 - 👥 Trying to be a part on open source community and working towards world of open source.
 
@@ -27,7 +27,7 @@ I'm Karthi Fair Hawn, a 19 years old learner from India.
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/nodejs.svg" alt="node" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/karthifairhawn/Spring-Tutorials/main/Spring%20Boot.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+  <img src="[https://raw.githubusercontent.com/karthifairhawn/Spring-Tutorials/main/Spring%20Boot.svg](https://raw.githubusercontent.com/karthifairhawn/Spring-Tutorials/main/Spring%20Boot.svg)" alt="bootstrap" style="vertical-align:top; margin:4px">
   
   
   <img src="" alt="" style="vertical-align:top; margin:4px">
