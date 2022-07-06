@@ -5,9 +5,9 @@
 ## Hey! 👋
 I'm Karthi Fair Hawn, a 19 years old learner from India.
 
-- 🧭 In stage of learning and need to be an all rounder🏏.
+- 🧭 Learning stuffs by doing for past 3 years/
 
-- 👥 Being a good programmer is 3% talent & 97% not being distracted by the internet.
+- 👥 Trying to be a part on open source community and working towards world of open source.
 
 ## Contact
 - [Karthi Fair Hawn](https://karthifairhawn.in)
